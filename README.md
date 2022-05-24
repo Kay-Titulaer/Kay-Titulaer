@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [kay-titulaer.github.io/portfolio](kay-titulaer.github.io/portfolio)
 
-- 📄 Know about my experiences [kay-titulaer.github.io/resume](kay-titulaer.github.io/resume)
+- 📄 Know about my experiences [kay-titulaer.github.io/resume](https://kay-titulaer.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
